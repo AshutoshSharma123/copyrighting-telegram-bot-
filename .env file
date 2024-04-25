@@ -1,0 +1,7 @@
+BOT_TOKEN=put your bot token
+
+MONGO_CONNNECT_STRING= remote access  token
+
+OPENAI='add an openai api key'
+
+OPENAI_MODEL=gpt-3.5-turbo
